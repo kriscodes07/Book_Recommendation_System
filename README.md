@@ -69,3 +69,9 @@ A basic web interface was built using **Flask**, with simple **HTML & CSS** for 
 ```bash
 git clone https://github.com/yourusername/book-recommendation-system.git
 cd book-recommendation-system
+
+
+
+
+## To view or test the application paste the below link in new tab
+-https://bookrecommnedationsystem.onrender.com
