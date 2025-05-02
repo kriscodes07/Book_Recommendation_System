@@ -76,3 +76,6 @@ cd book-recommendation-system
 ## To view or test the application paste the below link in new tab
 -https://bookrecommnedationsystem.onrender.com
 <a>https://bookrecommnedationsystem.onrender.com</a>
+
+[Click on this](https://bookrecommnedationsystem.onrender.com)
+
